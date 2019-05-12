@@ -1,0 +1,157 @@
+.video-popup-overlay a,
+.footer-top-content .mc4wp-form .mc4wp-form-fields button,
+.contact-form-btn,
+.contact-info-bg:after,
+#backtotop i,
+.service-item .service-icon a,
+.service-item-2:hover .service-icon a,
+.section-title .title:after,
+.section-title .title:before,
+.event-single-date,
+.counter-backgroud,
+.dropdown-item:active,
+.accordion .card-header h5[aria-expanded="true"],
+.event-excerpt-readmore a,
+.portfolio-gallery a i,
+.ConsultYou-btn a,
+.pricing-item small,
+.comment-navigation a,
+.dropdown-item.active,
+.pagination .nav-links .current,
+.pagination .nav-links .prev,
+.pagination .nav-links .next,
+.sticky .the_excerpt_content,
+#wp-calendar caption,
+.rss-date,
+.post-comments .comment-reply-link,
+.post-navigation .nav-previous a,
+.post-navigation .nav-next a,
+.the_excerpt_date,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.newsletter,
+.progress-bar,
+.hvr-bounce-to-right:before,
+.call-to-action,
+.readmore a,
+.latest_blog_readmore a,
+.pricing-item a,
+.content-carousel-item,
+.excerpt-readmore a,
+.parallax-banner-content .ConsultYou-btn a:last-child:hover,
+.pagination li .current,
+.pagination li a:hover,
+.service-item-2 .service-item-content h4:after,
+.request-form input[type=submit],
+.request-form h2:after,
+.profile-card span {
+    background: #8E54E9;
+    background: -webkit-linear-gradient(to right, #4776E6, #8E54E9);
+    background: linear-gradient(to right, #4776E6, #8E54E9);
+
+}
+
+.event-contact-info ul li a,
+.recent_blog ul li i,
+.service-readmore a ,
+.portfolio-filter.active,
+.portfolio-filter:hover,
+.service-readmore a:hover,
+.search-form form button:hover i,
+.preloader-percentage,
+.quick-contact i,
+.testimonial-item h6,
+.profile-card-content ul li a:hover,
+.pricing-item span,
+.page-links a,
+.comment-list a,
+.navbar-nav,
+.widget-site-social a,
+.comment-reply-title a,
+.edit-link a,
+.the_excerpt .entry-meta ul li a:hover,
+.single-post .entry-meta ul li a:hover,
+.widget_tag_cloud a:hover,
+#wp-calendar a,
+.widget li a:hover,
+blockquote::before,
+.footer-widget li a:hover,
+.post-comments .commenter a,
+.the_excerpt .entry-meta ul li i,
+.single-post .entry-meta ul li i,
+.error-404,
+.work-process-after:after,
+.work-process-item span,
+.service-tabs .tab-btns .tab-btn .icon,
+.service-img span,
+.copyright-bar a i:hover,
+.footer-top-content .footer-logo:hover,
+.nav-link:hover {
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: #8E54E9;
+    background-image: -webkit-linear-gradient(to right, #4776E6, #8E54E9);
+    background-image: linear-gradient(to right, #4776E6, #8E54E9);
+}
+
+.service-tabs .tab-btns .tab-btn,
+.service-tabs .tab-content .content-box,
+.edit-link a,
+.pagination .nav-links a,
+blockquote,
+.appointment input,
+.appointment select,
+.appointment textarea,
+.work-process-item span,
+.pricing-item-border {
+    border-color: #8E54E9 !important;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(142, 84, 233, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+/*----------------------------------------
+IF SCREEN SIZE LESS THAN 769px WIDE
+------------------------------------------*/
+
+@media screen and (max-width: 768px) {
+    .navbar .menu-item > .active {
+        background: #8E54E9;
+        background: -webkit-linear-gradient(to right, #4776E6, #8E54E9);
+        background: linear-gradient(to right, #4776E6, #8E54E9);
+    }
+}
+
+
+/*From Extra*/
+.navbar .menu-item.active a {
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: #8E54E9;
+    background-image: -webkit-linear-gradient(to right, #4776E6, #8E54E9);
+    background-image: linear-gradient(to right, #4776E6, #8E54E9);
+}
+
+.about-content ul li i,
+.about-border:after,
+.about-border:before {
+    background: #8E54E9;
+    background: -webkit-linear-gradient(to right, #4776E6, #8E54E9);
+    background: linear-gradient(to right, #4776E6, #8E54E9);
+}
+
+/*Squire border*/
+/*.pagination li a {
+    border-image: linear-gradient(to right, #4776E6, #8E54E9);
+    border-image-slice: 1;
+}*/
+
+/*circle border*/
+.class-examole{
+    background: linear-gradient(to right, #4776E6, #8E54E9);
+    border-radius: 50%;
+    display: inline-block;
+}
